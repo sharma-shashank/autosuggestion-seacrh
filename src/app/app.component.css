@@ -23,9 +23,9 @@ input::-webkit-calendar-picker-indicator {
 }
 
 .clear-search {
-    top: 150px;
+    top: 192px;
     position: absolute;
-    right: 370px;
+    right: 487px;
     width: 12px;
     cursor: pointer;
 }
